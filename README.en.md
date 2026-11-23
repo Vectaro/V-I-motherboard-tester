@@ -23,9 +23,9 @@ The scalers map ±10.5 V into 0.25…2.35 V for the ADC: `Vadc = 1.30 − 0.1·V
 
 ## Schematic
 
-![Schematic](schematic.png)
-
-Vector version: [`schematic.svg`](schematic.svg)
+![Schematic](schematic.en.png)
+ 
+Vector version: [`schematic.en.svg`](schematic.en.svg)
 
 Reading the schematic: a dot means a connection; lines that cross without a dot are not connected. All ground symbols are the same ground: ESP32 GND = A0512S GND/COM = relay GND = black probe.
 
